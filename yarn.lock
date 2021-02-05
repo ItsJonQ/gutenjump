@@ -487,7 +487,7 @@
     lodash "^4.17.19"
     rungen "^0.3.2"
 
-"@wp-g2/components@latest":
+"@wp-g2/components@^0.0.150":
   version "0.0.150"
   resolved "https://registry.yarnpkg.com/@wp-g2/components/-/components-0.0.150.tgz#88a9fa9ea6ba9ac5beae69b4d16dfd9561d1a78c"
   integrity sha512-wolFRz5X53jFTgnqLfZlJue7xs3ucGHksR9zBsONKXwolDvING0cJLn9U17vuU7dB7WFzf8lLxKxPvdFyYMcoQ==
@@ -508,7 +508,7 @@
     react-use-gesture "^9.0.0"
     reakit "^1.3.4"
 
-"@wp-g2/context@^0.0.150", "@wp-g2/context@latest":
+"@wp-g2/context@^0.0.150":
   version "0.0.150"
   resolved "https://registry.yarnpkg.com/@wp-g2/context/-/context-0.0.150.tgz#4a26c95de2ea142dd8c40f0cc04323b323d90c85"
   integrity sha512-VaC79oGUhJ/4THEW0XupIhunovV0u5IMLZfIrDAs5k0eqp45CO30zghMv2DQBQnuSzI1PH6DJCoHGkn4DTBDfw==
@@ -533,7 +533,7 @@
     rtlcss "^2.6.2"
     styled-griddie "^0.1.3"
 
-"@wp-g2/protokit@latest":
+"@wp-g2/protokit@^0.0.150":
   version "0.0.150"
   resolved "https://registry.yarnpkg.com/@wp-g2/protokit/-/protokit-0.0.150.tgz#5f5eac89e3985a364bf942b18d2e8e96c79e418c"
   integrity sha512-H2mfurt2PL5fGwPY7hNjqO3HUcudEOT/0Uh7WNKM8IaXHTJp6oXGCweD4sgOVpTsJBNEvIqy66h7eUxWrBqhqw==
@@ -545,7 +545,7 @@
     fuse.js "^6.4.1"
     use-enhanced-state "^0.0.13"
 
-"@wp-g2/styles@^0.0.150", "@wp-g2/styles@latest":
+"@wp-g2/styles@^0.0.150":
   version "0.0.150"
   resolved "https://registry.yarnpkg.com/@wp-g2/styles/-/styles-0.0.150.tgz#46c0bf5090601af438cc2549ca727028aa931741"
   integrity sha512-5CewOL0Ts5IdQIrW7d7Oa5joU1SWsVVBx9q+7rXfaXjFyeGliLrpRPchBk3OBPCQmw938kcexsa7eySlKFT67Q==
@@ -553,7 +553,7 @@
     "@wp-g2/create-styles" "^0.0.150"
     "@wp-g2/utils" "^0.0.150"
 
-"@wp-g2/utils@^0.0.150", "@wp-g2/utils@latest":
+"@wp-g2/utils@^0.0.150":
   version "0.0.150"
   resolved "https://registry.yarnpkg.com/@wp-g2/utils/-/utils-0.0.150.tgz#5bfe14e72f19c09fc795cfcc774ca215088b427c"
   integrity sha512-CXJEZvwZwlLJfvsfWyxzAxd8qCVzZp9kK7w+GJ883K6NythPymOVJwECUEv2PG3xTUo5qwX4mAwePhA8ZPTHfQ==
@@ -1516,7 +1516,7 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
-fuse.js@^6.4.1:
+fuse.js@6.4.6, fuse.js@^6.4.1:
   version "6.4.6"
   resolved "https://registry.yarnpkg.com/fuse.js/-/fuse.js-6.4.6.tgz#62f216c110e5aa22486aff20be7896d19a059b79"
   integrity sha512-/gYxR/0VpXmWSfZOIPS3rWwU8SHgsRTwWuXhyb2O6s7aRuVtHtxCkR33bNYu3wyLyNx/Wpv0vU7FZy8Vj53VNw==
@@ -2593,7 +2593,7 @@ reakit-warning@^0.6.1:
   dependencies:
     reakit-utils "^0.15.1"
 
-reakit@^1.3.4:
+reakit@^1.3.4, reakit@^1.3.5:
   version "1.3.5"
   resolved "https://registry.yarnpkg.com/reakit/-/reakit-1.3.5.tgz#4e35850f4998922541cf9de305549f41931f3272"
   integrity sha512-Luv1RPBFlWhRG32Ysjd86KC+vLoz5da3X0O8rqClaNEv259nWmnw5fG6BIUSYJwTG6PPxTidPlS+9bS6nLstfA==
@@ -3210,6 +3210,11 @@ util@^0.11.0:
   integrity sha512-HShAsny+zS2TZfaXxD9tYj4HQGlBezXZMZuM/S5PKLLoZkShZiGk9o5CzukI1LVHZvjdvZ2Sj1aW/Ndn2NB/HQ==
   dependencies:
     inherits "2.0.3"
+
+uuid@^8.3.2:
+  version "8.3.2"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
+  integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
 
 value-equal@^1.0.1:
   version "1.0.1"

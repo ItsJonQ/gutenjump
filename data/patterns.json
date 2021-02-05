@@ -1,0 +1,176 @@
+[
+    {
+        "title": "Large text",
+        "categories": [
+            "twentytwentyone"
+        ],
+        "viewportWidth": 1440,
+        "content": "<!-- wp:heading {\"align\":\"wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} --><h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1\">A new portfolio default theme for WordPress</h2><!-- /wp:heading -->",
+        "name": "twentytwentyone/large-text"
+    },
+    {
+        "title": "Links area",
+        "categories": [
+            "twentytwentyone"
+        ],
+        "viewportWidth": 1440,
+        "description": "A huge text followed by social networks and email address links.",
+        "content": "<!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} --><div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} --><div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div><!-- /wp:spacer --><!-- wp:paragraph {\"fontSize\":\"huge\"} --><p class=\"has-huge-font-size\">Let&#8217;s Connect.</p><!-- /wp:paragraph --><!-- wp:spacer {\"height\":75} --><div style=\"height:75px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div><!-- /wp:spacer --><!-- wp:columns --><div class=\"wp-block-columns\"><!-- wp:column --><div class=\"wp-block-column\"><!-- wp:paragraph --><p><a href=\"#\" data-type=\"URL\">Twitter</a> / <a href=\"#\" data-type=\"URL\">Instagram</a> / <a href=\"#\" data-type=\"URL\">Dribbble</a></p><!-- /wp:paragraph --></div><!-- /wp:column --><!-- wp:column --><div class=\"wp-block-column\"><!-- wp:paragraph --><p><a href=\"#\">example@example.com</a></p><!-- /wp:paragraph --></div><!-- /wp:column --></div><!-- /wp:columns --><!-- wp:spacer {\"height\":20} --><div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div><!-- /wp:spacer --></div></div><!-- /wp:cover --><!-- wp:paragraph --><p></p><!-- /wp:paragraph -->",
+        "name": "twentytwentyone/links-area"
+    },
+    {
+        "title": "Media and text article title",
+        "categories": [
+            "twentytwentyone"
+        ],
+        "viewportWidth": 1440,
+        "description": "A Media &amp; Text block with a big image on the left and a heading on the right. The heading is followed by a separator and a description paragraph.",
+        "content": "<!-- wp:media-text {\"mediaId\":1752,\"mediaLink\":\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/playing-in-the-sand.jpg\",\"mediaType\":\"image\",\"className\":\"is-style-twentytwentyone-border\"} --><div class=\"wp-block-media-text alignwide is-stacked-on-mobile is-style-twentytwentyone-border\"><figure class=\"wp-block-media-text__media\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/playing-in-the-sand.jpg\" alt=\"&#8220;Playing in the Sand&#8221; by Berthe Morisot\" class=\"wp-image-1752\"/></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading {\"align\":\"center\"} --><h2 class=\"has-text-align-center\">Playing in the Sand</h2><!-- /wp:heading --><!-- wp:separator {\"className\":\"is-style-dots\"} --><hr class=\"wp-block-separator is-style-dots\"/><!-- /wp:separator --><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"small\"} --><p class=\"has-text-align-center has-small-font-size\">Berthe Morisot<br>(French, 1841-1895)</p><!-- /wp:paragraph --></div></div><!-- /wp:media-text -->",
+        "name": "twentytwentyone/media-text-article-title"
+    },
+    {
+        "title": "Overlapping images",
+        "categories": [
+            "twentytwentyone"
+        ],
+        "viewportWidth": 1024,
+        "description": "Three images inside an overlapping columns block.",
+        "content": "<!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --><div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} --><div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"sizeSlug\":\"full\"} --><figure class=\"wp-block-image alignfull size-full\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/roses-tremieres-hollyhocks-1884.jpg\" alt=\"&#8220;Roses Tremieres&#8221; by Berthe Morisot\"/></figure><!-- /wp:image --><!-- wp:spacer --><div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div><!-- /wp:spacer --><!-- wp:image {\"align\":\"full\",\"sizeSlug\":\"full\"} --><figure class=\"wp-block-image alignfull size-full\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/in-the-bois-de-boulogne.jpg\" alt=\"&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot\"/></figure><!-- /wp:image --></div><!-- /wp:column --><!-- wp:column {\"verticalAlignment\":\"center\"} --><div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer --><div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div><!-- /wp:spacer --><!-- wp:image {\"align\":\"full\",sizeSlug\":\"full\"} --><figure class=\"wp-block-image alignfull size-full\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/young-woman-in-mauve.jpg\" alt=\"&#8220;Young Woman in Mauve&#8221; by Berthe Morisot\"/></figure><!-- /wp:image --></div><!-- /wp:column --></div><!-- /wp:columns -->",
+        "name": "twentytwentyone/overlapping-images"
+    },
+    {
+        "title": "Two images showcase",
+        "categories": [
+            "twentytwentyone"
+        ],
+        "viewportWidth": 1440,
+        "description": "A media &amp; text block with a big image on the left and a smaller one with bordered frame on the right.",
+        "content": "<!-- wp:media-text {\"mediaId\":1747,\"mediaLink\":\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/Daffodils.jpg\",\"mediaType\":\"image\"} --><div class=\"wp-block-media-text alignwide is-stacked-on-mobile\"><figure class=\"wp-block-media-text__media\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/Daffodils.jpg\" alt=\"&#8220;Daffodils&#8221; by Berthe Morisot\" size-full\"/></figure><div class=\"wp-block-media-text__content\"><!-- wp:image {\"align\":\"center\",\"width\":400,\"height\":512,\"sizeSlug\":\"large\",\"className\":\"is-style-twentytwentyone-image-frame\"} --><figure class=\"wp-block-image aligncenter size-large is-resized is-style-twentytwentyone-image-frame\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/self-portrait-1885.jpg\" alt=\"&#8220;Self portrait&#8221; by Berthe Morisot\" width=\"400\" height=\"512\"/></figure><!-- /wp:image --></div></div><!-- /wp:media-text -->",
+        "name": "twentytwentyone/two-images-showcase"
+    },
+    {
+        "title": "Overlapping images and text",
+        "categories": [
+            "twentytwentyone"
+        ],
+        "viewportWidth": 1440,
+        "description": "An overlapping columns block with two images and a text description.",
+        "content": "<!-- wp:columns {\"verticalAlignment\":null,\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} --> <div class=\"wp-block-columns alignwide is-style-twentytwentyone-columns-overlap\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {sizeSlug\":\"full\"} --> <figure class=\"wp-block-image size-full\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/the-garden-at-bougival-1884.jpg\" alt=\"&#8220;The Garden at Bougival&#8221; by Berthe Morisot\"/></figure> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"bottom\"} --> <div class=\"wp-block-column is-vertically-aligned-bottom\"><!-- wp:group {\"className\":\"is-style-twentytwentyone-border\",\"backgroundColor\":\"green\"} --> <div class=\"wp-block-group is-style-twentytwentyone-border has-green-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:paragraph {\"fontSize\":\"extra-large\",\"style\":{\"typography\":{\"lineHeight\":\"1.4\"}}} --> <p class=\"has-extra-large-font-size\" style=\"line-height:1.4\">Beautiful gardens painted by Berthe Morisot in the late 1800s</p> <!-- /wp:paragraph --></div></div> <!-- /wp:group --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {sizeSlug\":\"full\"} --> <figure class=\"wp-block-image size-full\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/villa-with-orange-trees-nice.jpg\" alt=\"&#8220;Villa with Orange Trees, Nice&#8221; by Berthe Morisot\"/></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+        "name": "twentytwentyone/overlapping-images-and-text"
+    },
+    {
+        "title": "Portfolio list",
+        "categories": [
+            "twentytwentyone"
+        ],
+        "description": "A list of projects with thumbnail images.",
+        "content": "<!-- wp:separator {\"className\":\"is-style-twentytwentyone-separator-thick\"} --> <hr class=\"wp-block-separator is-style-twentytwentyone-separator-thick\"/> <!-- /wp:separator --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":80} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\">Roses Tremieres</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"width\":85,\"height\":67,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignright size-large is-resized\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/roses-tremieres-hollyhocks-1884.jpg\" alt=\"&#8220;Roses Tremieres&#8221; by Berthe Morisot\" width=\"85\" height=\"67\"/></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator is-style-default\"/> <!-- /wp:separator --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":80} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\">Villa with Orange Trees, Nice</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"width\":53,\"height\":67,\"className\":\"alignright size-large is-resized\"} --><figure class=\"wp-block-image is-resized alignright size-large\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/villa-with-orange-trees-nice.jpg\" alt=\"&#8220;Villa with Orange Trees, Nice&#8221; by Berthe Morisot\" width=\"53\" height=\"67\"/></figure><!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator is-style-default\"/> <!-- /wp:separator --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":80} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\">In the Bois de Boulogne</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"width\":81,\"height\":67,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignright size-large is-resized\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/in-the-bois-de-boulogne.jpg\" alt=\"&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot\" width=\"81\" height=\"67\"/></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator is-style-default\"/> <!-- /wp:separator --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":80} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\">The Garden at Bougival</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"width\":85,\"height\":67,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignright size-large is-resized\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/the-garden-at-bougival-1884.jpg\" alt=\"&#8220;The Garden at Bougival&#8221; by Berthe Morisot\" width=\"85\" height=\"67\"/></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator is-style-default\"/> <!-- /wp:separator --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":80} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\">Young Woman in Mauve</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"width\":54,\"height\":67,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignright size-large is-resized\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/young-woman-in-mauve.jpg\" alt=\"&#8220;Young Woman in Mauve&#8221; by Berthe Morisot\" width=\"54\" height=\"67\"/></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"className\":\"is-style-default\"} --> <hr class=\"wp-block-separator is-style-default\"/> <!-- /wp:separator --> <!-- wp:columns --> <div class=\"wp-block-columns\"><!-- wp:column {\"verticalAlignment\":\"center\",\"width\":80} --> <div class=\"wp-block-column is-vertically-aligned-center\" style=\"flex-basis:80%\"><!-- wp:paragraph {\"fontSize\":\"extra-large\"} --> <p class=\"has-extra-large-font-size\"><a href=\"#\">Reading</a></p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column {\"verticalAlignment\":\"center\"} --> <div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"right\",\"width\":84,\"height\":67,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignright size-large is-resized\"><img src=\"http://localhost:8888/wordpress/wp-content/themes/twentytwentyone/assets/images/Reading.jpg\" alt=\"&#8220;Reading&#8221; by Berthe Morisot\" width=\"84\" height=\"67\"/></figure> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:separator {\"className\":\"is-style-twentytwentyone-separator-thick\"} --> <hr class=\"wp-block-separator is-style-twentytwentyone-separator-thick\"/> <!-- /wp:separator -->",
+        "name": "twentytwentyone/portfolio-list"
+    },
+    {
+        "title": "Contact information",
+        "categories": [
+            "twentytwentyone"
+        ],
+        "description": "A block with 3 columns that display contact information and social media links.",
+        "content": "<!-- wp:columns {\"align\":\"wide\"} --><div class=\"wp-block-columns alignwide\"><!-- wp:column --><div class=\"wp-block-column\"><!-- wp:paragraph --><p><a href=\"mailto:#\">example@example.com<br></a>123-456-7890</p><!-- /wp:paragraph --></div><!-- /wp:column --><!-- wp:column --><div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"center\"} --><p class=\"has-text-align-center\">123 Main Street<br>Cambridge, MA, 02139</p><!-- /wp:paragraph --></div><!-- /wp:column --><!-- wp:column {\"verticalAlignment\":\"center\"} --><div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:social-links {\"align\":\"right\",\"className\":\"is-style-twentytwentyone-social-icons-color\"} --><ul class=\"wp-block-social-links alignright is-style-twentytwentyone-social-icons-color\"><!-- wp:social-link {\"url\":\"https://wordpress.org\",\"service\":\"wordpress\"} /--><!-- wp:social-link {\"url\":\"https://www.facebook.com/WordPress/\",\"service\":\"facebook\"} /--><!-- wp:social-link {\"url\":\"https://twitter.com/WordPress\",\"service\":\"twitter\"} /--><!-- wp:social-link {\"url\":\"https://www.youtube.com/wordpress\",\"service\":\"youtube\"} /--></ul><!-- /wp:social-links --></div><!-- /wp:column --></div><!-- /wp:columns -->",
+        "name": "twentytwentyone/contact-information"
+    },
+    {
+        "title": "Two columns of text",
+        "categories": [
+            "columns"
+        ],
+        "content": "<!-- wp:group -->\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container\"><!-- wp:heading {\"style\":{\"typography\":{\"fontSize\":38},\"color\":{\"text\":\"#ba0c49\"}}} -->\n<h2 class=\"has-text-color\" style=\"font-size:38px;color:#ba0c49\">Which treats of the character and pursuits of the famous gentleman Don Quixote of La Mancha</h2>\n<!-- /wp:heading -->\n\n<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":18}}} -->\n<p style=\"font-size:18px\">In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":18}}} -->\n<p style=\"font-size:18px\">The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div></div>\n<!-- /wp:group -->",
+        "description": "Two columns of text preceded by a long heading.",
+        "name": "core/text-two-columns"
+    },
+    {
+        "title": "Two buttons",
+        "content": "<!-- wp:buttons {\"align\":\"center\"} -->\n<div class=\"wp-block-buttons aligncenter\"><!-- wp:button {\"borderRadius\":2,\"style\":{\"color\":{\"background\":\"#ba0c49\",\"text\":\"#fffffa\"}}} -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-text-color has-background\" style=\"border-radius:2px;background-color:#ba0c49;color:#fffffa\">Download now</a></div>\n<!-- /wp:button -->\n\n<!-- wp:button {\"borderRadius\":2,\"style\":{\"color\":{\"text\":\"#ba0c49\"}},\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color\" style=\"border-radius:2px;color:#ba0c49\">About Cervantes</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons -->",
+        "viewportWidth": 500,
+        "categories": [
+            "buttons"
+        ],
+        "description": "Two buttons, one filled and one outlined, side by side.",
+        "name": "core/two-buttons"
+    },
+    {
+        "title": "Two images side by side",
+        "categories": [
+            "gallery"
+        ],
+        "description": "An image gallery with two example images.",
+        "content": "<!-- wp:gallery {\"ids\":[null,null],\"align\":\"wide\"} -->\n<figure class=\"wp-block-gallery alignwide columns-2 is-cropped\"><ul class=\"blocks-gallery-grid\"><li class=\"blocks-gallery-item\"><figure><img src=\"https://s.w.org/images/core/5.5/don-quixote-05.jpg\" alt=\"An old pencil drawing of Don Quixote and Sancho Panza sitting on their horses, by Wilhelm Marstrand.\"/></figure></li><li class=\"blocks-gallery-item\"><figure><img src=\"https://s.w.org/images/core/5.5/don-quixote-01.jpg\" alt=\"An old pencil drawing of Don Quixote and Sancho Panza sitting on their horses, by Wilhelm Marstrand.\"/></figure></li></ul></figure>\n<!-- /wp:gallery -->",
+        "name": "core/two-images"
+    },
+    {
+        "title": "Two columns of text with images",
+        "categories": [
+            "columns"
+        ],
+        "content": "<!-- wp:group -->\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container\"><!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://s.w.org/images/core/5.5/don-quixote-02.jpg\" alt=\"\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":18}}} -->\n<p style=\"font-size:18px\">You must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property; and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:image {\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://s.w.org/images/core/5.5/don-quixote-04.jpg\" alt=\"\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph {\"style\":{\"typography\":{\"fontSize\":18}}} -->\n<p style=\"font-size:18px\">But of all there were none he liked so well as those of the famous Feliciano de Silva's composition, for their lucidity of style and complicated conceits were as pearls in his sight, particularly when in his reading he came upon courtships and cartels, where he often found passages like \"the reason of the unreason with which my reason is afflicted so weakens my reason that with reason I murmur at your beauty;\" or again, \"the high heavens render you deserving of the desert your greatness deserves.\"</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div></div>\n<!-- /wp:group -->",
+        "description": "Two columns of text, each with an image on top.",
+        "name": "core/text-two-columns-with-images"
+    },
+    {
+        "title": "Three columns of text with buttons",
+        "categories": [
+            "columns"
+        ],
+        "content": "<!-- wp:group {\"align\":\"wide\"} -->\n<div class=\"wp-block-group alignwide\"><div class=\"wp-block-group__inner-container\"><!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p>Which treats of the character and pursuits of the famous Don Quixote of La Mancha.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"borderRadius\":50,\"style\":{\"color\":{\"text\":\"#ba0c49\"}},\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color\" style=\"border-radius:50px;color:#ba0c49\">Chapter One</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p>Which treats of the first sally the ingenious Don Quixote made from home.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"borderRadius\":50,\"style\":{\"color\":{\"text\":\"#ba0c49\"}},\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color\" style=\"border-radius:50px;color:#ba0c49\">Chapter Two</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p>Wherein is related the droll way in which Don Quixote had himself dubbed a knight.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"borderRadius\":50,\"style\":{\"color\":{\"text\":\"#ba0c49\"}},\"className\":\"is-style-outline\"} -->\n<div class=\"wp-block-button is-style-outline\"><a class=\"wp-block-button__link has-text-color\" style=\"border-radius:50px;color:#ba0c49\">Chapter Three</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div></div>\n<!-- /wp:group -->",
+        "viewportWidth": 1000,
+        "description": "Three small columns of text, each with an outlined button with rounded corners at the bottom.",
+        "name": "core/text-three-columns-buttons"
+    },
+    {
+        "title": "Large header with a heading",
+        "content": "<!-- wp:cover {\"url\":\"https://s.w.org/images/core/5.5/don-quixote-06.jpg\",\"id\":165,\"dimRatio\":15,\"focalPoint\":{\"x\":\"0.40\",\"y\":\"0.26\"},\"minHeight\":375,\"minHeightUnit\":\"px\",\"contentPosition\":\"center center\",\"align\":\"wide\"} -->\n<div class=\"wp-block-cover alignwide has-background-dim-20 has-background-dim is-position-center-center\" style=\"background-image:url(https://s.w.org/images/core/5.5/don-quixote-06.jpg);min-height:375px;background-position:40% 26%\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title…\",\"style\":{\"typography\":{\"fontSize\":74,\"lineHeight\":\"1.1\"},\"color\":{\"text\":\"#fffffa\"}}} -->\n<p class=\"has-text-align-center has-text-color\" style=\"line-height:1.1;font-size:74px;color:#fffffa\"><strong>Don Quixote</strong></p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->",
+        "viewportWidth": 1000,
+        "categories": [
+            "header"
+        ],
+        "description": "A large hero section with an example background image and a heading in the center.",
+        "name": "core/large-header"
+    },
+    {
+        "title": "Large header with a heading and a button ",
+        "content": "<!-- wp:cover {\"minHeight\":575,\"minHeightUnit\":\"px\",\"customGradient\":\"linear-gradient(135deg,rgb(249,72,72) 1%,rgb(179,22,22) 100%)\",\"contentPosition\":\"center center\",\"align\":\"wide\"} -->\n<div class=\"wp-block-cover alignwide has-background-dim has-background-gradient is-position-center-center\" style=\"background:linear-gradient(135deg,rgb(249,72,72) 1%,rgb(179,22,22) 100%);min-height:575px\"><div class=\"wp-block-cover__inner-container\"><!-- wp:columns {\"align\":\"wide\"} -->\n<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":12} -->\n<div class=\"wp-block-column\" style=\"flex-basis:12%\"><!-- wp:spacer -->\n<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:spacer -->\n<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->\n\n<!-- wp:paragraph {\"align\":\"left\",\"placeholder\":\"Write title…\",\"style\":{\"typography\":{\"fontSize\":68,\"lineHeight\":\"1.2\"},\"color\":{\"text\":\"#fffffa\"}}} -->\n<p class=\"has-text-align-left has-text-color\" style=\"line-height:1.2;font-size:68px;color:#fffffa\"><strong>Thou hast seen<br>nothing yet</strong></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:buttons -->\n<div class=\"wp-block-buttons\"><!-- wp:button {\"borderRadius\":3,\"style\":{\"color\":{\"background\":\"#fffffa\",\"text\":\"#00000a\"}}} -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-text-color has-background\" style=\"border-radius:3px;background-color:#fffffa;color:#00000a\">Read now</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":12} -->\n<div class=\"wp-block-column\" style=\"flex-basis:12%\"><!-- wp:spacer -->\n<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div></div>\n<!-- /wp:cover -->",
+        "viewportWidth": 1000,
+        "categories": [
+            "header"
+        ],
+        "description": "A large hero section with a bright gradient background, a big heading and a filled button.",
+        "name": "core/large-header-button"
+    },
+    {
+        "title": "Three buttons",
+        "content": "<!-- wp:buttons {\"align\":\"center\"} -->\n<div class=\"wp-block-buttons aligncenter\"><!-- wp:button {\"borderRadius\":50,\"style\":{\"color\":{\"gradient\":\"linear-gradient(135deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%)\",\"text\":\"#fffffa\"}}} -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-text-color has-background\" style=\"border-radius:50px;background:linear-gradient(135deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%);color:#fffffa\">About Cervantes</a></div>\n<!-- /wp:button -->\n\n<!-- wp:button {\"borderRadius\":50,\"style\":{\"color\":{\"gradient\":\"linear-gradient(317deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%)\",\"text\":\"#fffffa\"}}} -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-text-color has-background\" style=\"border-radius:50px;background:linear-gradient(317deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%);color:#fffffa\">Contact Us</a></div>\n<!-- /wp:button -->\n\n<!-- wp:button {\"borderRadius\":50,\"style\":{\"color\":{\"gradient\":\"linear-gradient(42deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%)\",\"text\":\"#fffffa\"}}} -->\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-text-color has-background\" style=\"border-radius:50px;background:linear-gradient(42deg,rgb(135,9,53) 0%,rgb(179,22,22) 100%);color:#fffffa\">Books</a></div>\n<!-- /wp:button --></div>\n<!-- /wp:buttons -->",
+        "viewportWidth": 600,
+        "categories": [
+            "buttons"
+        ],
+        "description": "Three filled buttons with rounded corners, side by side.",
+        "name": "core/three-buttons"
+    },
+    {
+        "title": "Heading and paragraph",
+        "content": "<!-- wp:group -->\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container\"><!-- wp:heading {\"fontSize\":\"large\"} -->\n<h2 class=\"has-large-font-size\"><span style=\"color:#ba0c49\" class=\"has-inline-color\"><strong>2</strong>.</span><br>Which treats of the first sally the ingenious Don Quixote made from home</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>These preliminaries settled, he did not care to put off any longer the execution of his design, urged on to it by the thought of all the world was losing by his delay, seeing what wrongs he intended to right, grievances to redress, injustices to repair, abuses to remove, and duties to discharge.</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:group -->",
+        "viewportWidth": 1000,
+        "categories": [
+            "text"
+        ],
+        "description": "A heading preceded by a chapter number, and followed by a paragraph.",
+        "name": "core/heading-paragraph"
+    },
+    {
+        "title": "Quote",
+        "content": "<!-- wp:group -->\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container\"><!-- wp:image {\"align\":\"center\",\"width\":164,\"height\":164,\"sizeSlug\":\"large\",\"className\":\"is-style-rounded\"} -->\n<div class=\"wp-block-image is-style-rounded\"><figure class=\"aligncenter size-large is-resized\"><img src=\"https://s.w.org/images/core/5.5/don-quixote-03.jpg\" alt=\"Pencil drawing of Don Quixote\" width=\"164\" height=\"164\"/></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:quote {\"align\":\"center\",\"className\":\"is-style-large\"} -->\n<blockquote class=\"wp-block-quote has-text-align-center is-style-large\"><p>\"Do you see over yonder, friend Sancho, thirty or forty hulking giants? I intend to do battle with them and slay them.\"</p><cite>– Don Quixote</cite></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:separator {\"className\":\"is-style-dots\"} -->\n<hr class=\"wp-block-separator is-style-dots\"/>\n<!-- /wp:separator --></div></div>\n<!-- /wp:group -->",
+        "viewportWidth": 800,
+        "categories": [
+            "text"
+        ],
+        "description": "A quote and citation with an image above, and a separator at the bottom.",
+        "name": "core/quote"
+    }
+]
